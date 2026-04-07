@@ -1,1 +1,3 @@
-# Insurance-Project-Name-
+Developed interactive and insightful Power BI dashboards to analyze student activity, course progress, and revenue trends using data from a centralized data warehouse. Designed reports with features like drill-down, drill-through, bookmarks, slicers, and KPI scorecards to enhance user experience and support business decision-making.
+
+Implemented row-level security (RLS) to ensure secure, role-based data access. Created dynamic DAX measures including MTD, QTD, and YTD for time-based analysis and performance tracking. Published reports to Power BI Service, configured workspaces, apps, and gateways, and enabled scheduled data refresh to provide up-to-date insights for end users
